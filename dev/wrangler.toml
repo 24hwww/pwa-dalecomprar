@@ -1,6 +1,6 @@
 name = "app"
 type = "javascript"
-main = "pwa/src/main.tsx"
+main = "app/src/index.js"
 compatibility_date = "2024-09-29"
 
 [site]
